@@ -1,0 +1,126 @@
+body{
+    margin-top: 0px;
+    font-family: Arial;
+    background: #ffffff;
+    color: black
+
+}
+
+h1{
+    margin: 20px 0;
+}
+h2{
+    margin: 0;
+    font-size: 15
+}
+h3{
+    margin: 10px;
+    font-size: 15;
+}
+
+h4{
+    margin: 20px;
+    font-size: 30px;
+}
+
+h5{
+    font-size: 30px;
+    margin: 20px;
+}
+img{
+    width: 200px;
+}
+
+.resume {
+    font-family: fantasy;
+    width: 400px;
+    font-weight: normal;
+    background-color: grey;
+    border-radius: 20px;
+    border: 3px solid beige;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+.resume .avatar{
+    width: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: grey;
+    margin-top: 50px;
+}
+
+.personal{
+    width: 300px;
+    background-color: grey;
+    border-radius: 0px;
+    margin-top: -100px;
+    margin-left: 10px;
+    font-size: 4mm;
+    text-align: left;
+}
+.personal li{
+    margin: -20px;
+}
+
+.contactsinfo{
+    margin-left: -350px;
+    margin-top: -100px;
+    display: inline-block;
+    text-align: right;
+    width: 20px;
+    padding: 100px
+    
+}
+.contactsinfo span{
+    vertical-align: middle;
+    
+    display: inline-block;
+    column-count: 3;
+}
+
+ul img{
+    width: 30px;
+    border-radius: 50%;
+    border: 0px;
+    border-image-width: 0px;
+    margin-left: -300px;
+}
+
+.project{
+    font-family: fantasy;
+    padding: 100px;
+    font-size: 15px;
+    background-color: gold;
+    border-radius: 20px;
+    border: 3px solid white;
+    text-align: left;
+    margin-left: 410px;
+    margin-top:0px;
+}
+
+.Professional{
+    padding: 100px;
+    margin-top: -700px;
+    margin-left: 410px;
+    font-size: 20px;
+    background-color: khaki;
+    font-family: fantasy;
+    border-radius: 20px;
+    border: solid white;
+
+}
+
+.Skills{
+    width: 380px;
+    background-color: yellowgreen;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: -670px;
+}
+.Skills span{
+    font-size: 15px;
+}
